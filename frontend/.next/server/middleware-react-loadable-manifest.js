@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages/index.tsx -> ../components/CVUploadForm\":{\"id\":\"pages/index.tsx -> ../components/CVUploadForm\",\"files\":[\"static/chunks/components_CVUploadForm_tsx.js\"]},\"pages/interview.tsx -> ../components/Interview\":{\"id\":\"pages/interview.tsx -> ../components/Interview\",\"files\":[\"static/chunks/components_Interview_tsx.js\"]}}"
